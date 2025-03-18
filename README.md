@@ -1,1 +1,1 @@
-# NeetCode-ML-Core-Skills-Solved-
+# NeetCode ML Core Skills (Solved)
