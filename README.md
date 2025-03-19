@@ -8,11 +8,10 @@ Below is a list of problems addressed in this repository:
 
 1. Gradient Descent
 2. Linear Regression (Forward)   	
-3. Linear Regression (Training)   	
-4. Neural Networks   	
-5. Pytorch Basics   	
-6. Digit Classifier   	
-7. PyTorch Training   	
+3. Linear Regression (Training)   	  	
+4. Pytorch Basics   	
+5. Digit Classifier   	
+6. PyTorch Training   	
 8. Intro to Natural Language Processing   	
 9. Sentiment Analysis   	
 10. GPT Dataset   	
