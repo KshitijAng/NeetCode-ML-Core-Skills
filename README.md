@@ -12,13 +12,13 @@ Below is a list of problems addressed in this repository:
 4. Pytorch Basics   	
 5. Digit Classifier   	
 6. PyTorch Training   	
-8. Intro to Natural Language Processing   	
-9. Sentiment Analysis   	
-10. GPT Dataset   	
-11. Self Attention   	
-12. Multi Headed Self Attention   	
-13. Transformer Block   	
-14. Code GPT   	
-15.Make GPT Talk Back
+7. Intro to Natural Language Processing   	
+8. Sentiment Analysis   	
+9. GPT Dataset   	
+10. Self Attention   	
+11. Multi Headed Self Attention   	
+12. Transformer Block   	
+13. Code GPT   	
+14. Make GPT Talk Back
 
 *Note: For a comprehensive list and detailed descriptions, visit the [NeetCode Core Skills page](https://neetcode.io/practice?tab=neetcode150%3Ftab%3DcoreSkills).*
